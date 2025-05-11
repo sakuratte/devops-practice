@@ -1,0 +1,2 @@
+ python<br>from app import add<br><br>def test_add():<br> 
+assert add(2, 3) == 5<br> assert add(-1, 1) == 0
